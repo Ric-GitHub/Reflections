@@ -1,0 +1,2 @@
+How did viewing a FC between two versions of a file help you see the bug that was introduced?
+It compared the two files line by line and provided lines that are different side by side.

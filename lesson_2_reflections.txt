@@ -18,3 +18,6 @@ What is the result of merging two branches together? Why do we represent it in t
 it unites to versions of the project together. 
 It is diagram that way to better understand how it runs.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic saves time and work. Keeps you from looking at all the code yourself. It allows to see changed from different branches.
+Manually allows you to decide which changes to keep, and to revise the code.

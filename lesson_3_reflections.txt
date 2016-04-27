@@ -15,3 +15,7 @@ It will help to easily compare the copy and the local branch.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Creating different copies of my file at different logical changes.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Make changes in a separate branch when you need a different version of the branch.
+
+

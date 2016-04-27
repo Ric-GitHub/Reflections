@@ -17,5 +17,6 @@ Creating different copies of my file at different logical changes.
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 Make changes in a separate branch when you need a different version of the branch.
+One will let you work on the side without changing the master. The other will allow you to make changes that you may be able to share with other.
 
 
